@@ -1,0 +1,12 @@
+12345 Smith Bob 1 Sanders Kennedy
+#79 Main Street, Scranton, PA 
+570-999-9999
+23456 Rodriguez Jessica 4 Polt Maple
+#289 Division Street, Moosic, PA
+570-333-3333
+34567 Owens Jennifer 3 Maher Kennedy
+#123 Grove Street, Old Forge, PA
+570-444-4444
+45678 Krane Mason 2 Arnold Maple
+#45 William Street, Scranton, PA
+570-888-8888

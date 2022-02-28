@@ -1,0 +1,3 @@
+Student will answer simple wh-questions with 80% accuracy. 
+Student will answer comprehension questions after reading a passage with 80% accuracy.
+Student will follow directions with 80% accuracy. 

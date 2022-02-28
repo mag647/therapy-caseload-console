@@ -1,0 +1,3 @@
+Student will produce target sound in words with 80% accuracy. 
+Student will produce target sound in sentences with 80% accuracy. 
+Student will produce target sound in conversation with 80% accuracy. 
